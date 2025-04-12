@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.bak
+.env
+.vscode/
+.idea/
+
+# Models
+*.h5
+*.keras
+
+# Streamlit feedback
+feedback_data/
+feedback/
+.feedback/
+
+# Mac OS
+.DS_Store
