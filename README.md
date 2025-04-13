@@ -3,10 +3,12 @@
 A Streamlit app that recognizes hand-drawn digits using a neural network trained on the MNIST dataset.  
 You can correct its mistakes, and the AI will learn and improve in real time!
 
-![screenshot](images/1.png) 
-![screenshot](images/2.png) 
-![screenshot](images/3.png) 
-![screenshot](images/4.png) 
+<p align="center">
+  <img src="images/1.png" alt="Screenshot 1" width="500"/>
+  <img src="images/2.png" alt="Screenshot 2" width="500"/>
+  <img src="images/3.png" alt="Screenshot 3" width="500"/>
+  <img src="images/4.png" alt="Screenshot 4" width="500"/>
+</p>
 
 ---
 
