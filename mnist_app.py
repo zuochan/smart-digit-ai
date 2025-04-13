@@ -124,7 +124,7 @@ with st.container():
     with col1:
         canvas_result = st_canvas(
             fill_color="#000000",
-            stroke_width=15,
+            stroke_width=30,
             stroke_color="#FFFFFF",
             background_color="#333333",
             height=300,
@@ -168,7 +168,6 @@ with st.container():
                     y = to_categorical([label], 10)
                     model.fit(x, y, epochs=3, batch_size=1, verbose=0)
                     model.save("mnist_model.keras")
-                    model.compile() 
 
                     # --------- 3. 通知 ---------
                     st.success(f"Correction saved to: {filename}")
