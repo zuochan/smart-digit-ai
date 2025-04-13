@@ -2,6 +2,9 @@
 
 A Streamlit app that recognizes hand-drawn digits using a neural network trained on the MNIST dataset.  
 You can correct its mistakes, and the AI will learn and improve in real time!
+👉 [Click here to try the live app on Streamlit! 🚀](https://smart-digit-ai-8yxpx3hvcfnmsnw7ycrbd8.streamlit.app/)
+
+A Streamlit app that recognizes hand-drawn digits...
 
 <p align="center">
   <img src="images/1.png" alt="Screenshot 1" width="500"/>
