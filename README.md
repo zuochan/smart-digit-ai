@@ -55,7 +55,7 @@ streamlit run mnist_app.py
 
 ---
 
-## 📦 Requirements
+## 📦 Skills that I use to make this app
 
 - Python 3.8+
 - streamlit
